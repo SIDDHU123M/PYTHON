@@ -76,9 +76,6 @@
 
 my_tuple = (1, 'apple', 3.14, 'banana')
 
-
-
-
 print(my_tuple[0])      # Output: 1
 
 print(my_tuple[1:3])    # Output: ('apple', 3.14)
@@ -99,8 +96,6 @@ print(new_tuple)        # Output: (1, 'apple', 3.14, 'banana', 'cherry', 42)
 my_tuple = (1, 2, 3, 4, 5)
 
 
-
-
 length = len(my_tuple)
 
 print(length)  # Output: 5
@@ -117,14 +112,9 @@ print(length)  # Output: 5
 my_tuple = (1, 2, 2, 3, 4, 2)
 
 
-
-
 count_2 = my_tuple.count(2)
 
 index_3 = my_tuple.index(3)
-
-
-
 
 print(count_2)  # Output: 3
 
