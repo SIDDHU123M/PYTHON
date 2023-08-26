@@ -10,22 +10,15 @@
 - Used for logical operations and comparisons.
 
 
-
-
 **Features:**
 
 - Logical operators (`and`, `or`, `not`) for combining boolean values.
 
 - Comparison operators (`==`, `!=`, `<`, `>`, `<=`, `>=`) for comparisons.
 
-
-
-
 ---
 
 **Methods and Operators of the Boolean Data Type:**
-
-
 
 
 **Part 1: Logical Operators:**
@@ -35,8 +28,6 @@
 2. **`or`:** Returns `True` if at least one operand is `True`, otherwise `False`.
 
 3. **`not`:** Returns the opposite of the operand's boolean value (`True` becomes `False` and vice versa).
-
-
 
 
 **Part 2: Comparison Operators:**
@@ -54,13 +45,9 @@
 9. **Greater Than or Equal (`>=`):** Returns `True` if the left operand is greater than or equal to the right operand, otherwise `False`.
 
 
-
-
 ---
 
 **Examples:**
-
-
 
 
 **Part 1: Logical Operators:**
@@ -72,15 +59,11 @@ x = True
 y = False
 
 
-
-
 result_and = x and y
 
 result_or = x or y
 
 result_not = not x
-
-
 
 
 print(result_and)  # Output: False
@@ -91,9 +74,6 @@ print(result_not)  # Output: False
 
 ```
 
-
-
-
 **Part 2: Comparison Operators:**
 
 ```python
@@ -101,7 +81,6 @@ print(result_not)  # Output: False
 a = 10
 
 b = 5
-
 
 
 

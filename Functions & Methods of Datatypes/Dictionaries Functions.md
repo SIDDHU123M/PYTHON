@@ -71,16 +71,11 @@
 
 **Examples:**
 
-
-
-
 **Part 1: Access and Manipulation:**
 
 ```python
 
 my_dict = {'name': 'Alice', 'age': 25, 'city': 'Wonderland'}
-
-
 
 
 print(my_dict['name'])         # Output: Alice

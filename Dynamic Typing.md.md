@@ -21,11 +21,9 @@ Dynamic typing is a concept in programming languages where the data type of a va
 
 
    ```python
-
    x = 10   # x is an integer
 
    x = "Hello"  # x is now a string
-
    ```
 
 
