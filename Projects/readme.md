@@ -24,7 +24,7 @@ To get started, run the `gui_app.py` file and interact with the GUI. You can ana
 Make sure to have the required libraries installed using:
 
 ```python 
-ip install tkinter pandas matplotlib scikit-learn
+pip install tkinter pandas matplotlib scikit-learn
 ```
 
 
