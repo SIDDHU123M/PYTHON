@@ -26,10 +26,10 @@ def analyze_data():
 
     # Create a scatter plot of two numeric columns
     plt.figure(figsize=(8, 6))
-    plt.scatter(data["Height"], data["Weight"], alpha=0.7)
-    plt.xlabel("Height")
-    plt.ylabel("Weight")
-    plt.title("Height vs Weight")
+    plt.scatter(data["Name"], data["Age"], alpha=0.7)
+    plt.xlabel("Name")
+    plt.ylabel("Age")
+    plt.title("Name vs Age")
     plt.show()
 
 # Call the function when running data_analysis.py directly
