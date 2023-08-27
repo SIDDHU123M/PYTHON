@@ -17,8 +17,6 @@ print(result)  # Output: 5.0
 **Explanation:** Here, the `math` module is imported, and the `sqrt()` function from the module is used to calculate the square root of 25.
 
 
-
-
 2. **Built-in Modules:**
 
 ```python
@@ -32,8 +30,6 @@ print(random_number)
 ```
 
 **Explanation:** The `random` module is used to generate a random integer between 1 and 10.
-
-
 
 
 **Packages:**
@@ -117,8 +113,6 @@ print(arr)
 **Explanation:** The `numpy` module is imported with the alias `np`. This is a common practice to make code more concise.
 
 
-
-
 2. **Import Specific Items:**
 
 ```python
@@ -132,8 +126,6 @@ print(result)
 ```
 
 **Explanation:** Only the `sqrt` function from the `math` module is imported. You can directly use the function without referencing the module.
-
-
 
 
 **Virtual Environments:**

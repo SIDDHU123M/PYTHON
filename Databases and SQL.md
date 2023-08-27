@@ -42,7 +42,8 @@
 - Retrieve data using `SELECT` statements and process the results.
 - Update and delete data using `UPDATE` and `DELETE` statements.
 - Properly close the database connection when done.
-
+---
+**Code:**
 ```python
 # Connecting to a Database
 import sqlite3

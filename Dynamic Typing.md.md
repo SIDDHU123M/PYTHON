@@ -18,16 +18,11 @@ Dynamic typing is a concept in programming languages where the data type of a va
 3. **Dynamic Reassignment:** Since Python is dynamically typed, you can change the value of a variable to a different data type at any point in your code. For example, you can initially assign an integer to a variable and later change it to a string.
 
 
-
-
    ```python
    x = 10   # x is an integer
 
    x = "Hello"  # x is now a string
    ```
-
-
-
 
 4. **Flexibility:** Dynamic typing allows for more flexible and concise code, as you don't need to worry about explicit type declarations or conversions in most cases. However, it also requires careful handling to prevent unintended type-related errors.
 

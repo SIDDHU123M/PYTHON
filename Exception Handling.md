@@ -46,7 +46,8 @@
 - Utilize assertions to check conditions that should always be true.
 - Implement error returns to handle exceptions gracefully.
 - Remember to use assertions only for debugging purposes.
-
+---
+**Code:**
 
 ```python
 # Exception Handling

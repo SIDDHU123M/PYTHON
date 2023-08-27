@@ -1,5 +1,6 @@
 Calling a function from within the same function is known as a recursive function. Recursion is a programming technique where a function calls itself in order to solve a problem. Recursive functions can be powerful and elegant, but they require careful handling to ensure that they don't lead to infinite loops.
-
+---
+**Code:**
 ```python
 def factorial(n):
     if n == 0:

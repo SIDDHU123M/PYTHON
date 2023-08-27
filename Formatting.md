@@ -7,8 +7,6 @@ age = 30
 print(f"My name is {name} and I am {age} years old.")
 ```
 
-
-
 ### Formatting with .format()
 ```python
 item = "book"
@@ -17,8 +15,6 @@ price = 15.99
 
 print("The {} costs ${:.2f}".format(item, price))
 ```
-
-
 
 ### String Concatenation
 ```python
@@ -30,8 +26,6 @@ combined = text1 + " " + text2
 
 print(combined)
 ```
-
-
 
 ### String Methods
 ```python
@@ -46,8 +40,6 @@ print(sentence.upper())
 print(sentence.replace("example", "sample"))
 ```
 
-
-
 ### Formatting Numbers
 
 num = 123.45678
@@ -56,8 +48,6 @@ print("Formatted: {:.2f}".format(num))
 
 print("Formatted: {:,}".format(1000000))
 ```
-
-
 
 ### Alignment and Padding
 ```python
@@ -70,8 +60,6 @@ print(f"'{word:^10}'")
 print(f"'{word:>10}'")
 ```
 
-
-
 ### Truncating Long Strings
 ```python
 long_text = "This is a very long sentence that needs to be truncated."
@@ -79,14 +67,10 @@ long_text = "This is a very long sentence that needs to be truncated."
 print(f"Truncated: '{long_text[:20]}...'")
 ```
 
-
-
 ### Escape Characters
 ```python
 print("This is a line\nThis is a new line.\tThis is a tab.")
 ```
-
-
 
 ### Raw Strings
 ```python

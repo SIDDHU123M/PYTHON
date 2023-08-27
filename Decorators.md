@@ -27,7 +27,8 @@
 - Experiment with both function-based and class-based decorators.
 - Use decorators to measure execution time, log actions, and more.
 - Be cautious when using decorators on performance-sensitive code.
-
+---
+**Code:**
 ```python
 # Simple Decorator
 def my_decorator(func):

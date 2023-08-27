@@ -41,5 +41,3 @@
 - Keep your code readable by following consistent indentation practices.
 - Use meaningful variable and function names for better understanding.
 - Always handle potential edge cases to ensure code reliability.
-
-Remember, practice is key to mastering control flow. Create different scenarios and practice writing code with if statements, loops, and nested structures to gain a solid understanding.

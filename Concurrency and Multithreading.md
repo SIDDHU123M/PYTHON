@@ -34,7 +34,8 @@
 - Be aware of the GIL's limitations when working with threads.
 - Learn about asynchronous programming to improve efficiency in I/O-bound scenarios.
 - Experiment with multithreading, multiprocessing, and asynchronous programming to understand their strengths and limitations.
-
+---
+**Code:**
 ```python
 # Multithreading
 import threading

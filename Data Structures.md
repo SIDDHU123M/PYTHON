@@ -54,7 +54,8 @@
 - Use file handling to read and write data to external files.
 - Master exception handling to handle errors gracefully.
 - Explore OOP concepts to structure your code for better maintainability.
-
+---
+**Code:**
 ```python
 # Lists
 my_list = [1, 2, 3, 4, 5]

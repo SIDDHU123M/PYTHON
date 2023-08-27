@@ -49,7 +49,8 @@
 - Use graphs to represent connections or networks.
 - Apply heaps for priority queue operations.
 - Utilize hash tables for fast key-value data retrieval.
-
+---
+**Code:**
 ```python
 # Stacks
 class Stack:

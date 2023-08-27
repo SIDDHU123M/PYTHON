@@ -40,7 +40,8 @@
 - Consider using generators for streaming data processing.
 - Explore libraries that utilize generators for efficient data manipulation.
 
-
+---
+**Code:**
 ```python
 # Generators
 def fibonacci_generator():
