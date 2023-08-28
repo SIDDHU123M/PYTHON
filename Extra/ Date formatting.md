@@ -10,9 +10,9 @@ print(formatted_date)
 ```
 **Here are some commonly used format codes:**
 
-- %Y : Full year. (e.g., 2022)
-- %m : Month as a zero-padded decimal number.(01, 02, ..., 12)
-- %d : Day of the month as a zero-padded decimal.(01, 02, ..., 31)
-- %H : Hour in 24-hour format as a zero-padded decimal.(00, 01, ..., 23)
-- %M : Minute as a zero-padded decimal.(00, 01, ..., 59)
-- %S : Second as a zero-padded decimal.(00, 01, ..., 59)
+- `%Y` : Full year. (e.g., 2022)
+- `%m` : Month as a zero-padded decimal number.(01, 02, ..., 12)
+- `%d` : Day of the month as a zero-padded decimal.(01, 02, ..., 31)
+- `%H` : Hour in 24-hour format as a zero-padded decimal.(00, 01, ..., 23)
+- `%M` : Minute as a zero-padded decimal.(00, 01, ..., 59)
+- `%S` : Second as a zero-padded decimal.(00, 01, ..., 59)
